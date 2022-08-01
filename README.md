@@ -1,9 +1,7 @@
 ### :wave: T'sup Everybody
 
-I'm Yahya, a 19-year-old Egyptian 3D Designer, Graphic Designer and Electronic Engineering student.
+I'm a 3rd-year Electronic Engineering student with a thing for CAD Designing, 3D Animation & Automation (Scripting), not to mention a never-ending enthusiasm for Graphic Designing & ℭalligraphy.
 
-I've been programming since 2016, starting with **Visual Basic**, then **C++** and **C#**.
+I started programming back in 2016 using **Visual Basic** and had some games created with it, but I can now use anything from **Assembly** to **C++** & **C#** for my work projects, as well as **Shell** & **AHK** for my personal projects.
 
-#### Clickable Social Media Links
-
-[![LinkedIn](LinkedInIcon.png)](https://www.linkedin.com/in/yahyatkofficial) [![Facebook](FacebookIcon.png)](https://www.facebook.com/Yahya.TK.Official)
+PS I've also learnt **HTML**, but I was talking about **"Programming Languages"** above so I didn't mention it 🙃
